@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Sai 👋</h1>
 <h3 align="center">A Student passionate about Data Analysis 📊</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+in+the+Making;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Turning+Data+into+Insights" alt="Typing SVG" />
-</p>
+<h3 align="center">Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | EDA</h3>
 
 ---
 
@@ -52,25 +50,11 @@ An end-to-end EDA project analyzing 90,000+ AI and Data job listings worldwide.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai8305&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai8305&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai8305&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <!-- Add your links below, e.g.: -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/sailakshmi-v-003bba301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sai8305?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ Always learning, always analyzing.</i></p>
