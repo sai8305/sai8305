@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Sai 👋</h1>
+<h1 align="center">Hi there, I'm Sailakshmi V 👋</h1>
 <h3 align="center">A Student passionate about Data Analysis 📊</h3>
-
 <h3 align="center">Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | EDA</h3>
 
 ---
@@ -15,7 +14,7 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 <a href="https://github.com/sai8305/JobMarketAnalysis">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sai8305&repo=JobMarketAnalysis&theme=default" />
@@ -28,6 +27,20 @@ An end-to-end EDA project analyzing 90,000+ AI and Data job listings worldwide.
 - 🖼️ Visualized insights using Matplotlib & Seaborn (bar charts, histograms, pie charts)
 - 🗄️ Ran SQL queries with `sqlite3` for aggregate stats — total jobs, avg/max salary, top-paying roles, top hiring countries
 - 💡 Derived key insights on remote work trends and how experience impacts salary
+
+<br clear="left"/>
+
+<a href="https://github.com/sai8305/ZomatoHiddenGems">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sai8305&repo=ZomatoHiddenGems&theme=default" />
+</a>
+
+**🍽️ Zomato Restaurant Analysis — Finding Hidden Gems**
+An EDA project identifying high-rating, low-cost "hidden gem" restaurants across 50,000+ Bangalore restaurant listings.
+- 🧹 Cleaned messy real-world data (text-based ratings, comma-formatted costs, missing values, duplicates)
+- 📈 Explored restaurant types, cuisines, locations, and cost/rating trends
+- 🖼️ Visualized cost vs. rating patterns using Matplotlib & Seaborn
+- 🗄️ Ran SQL queries with `sqlite3` to surface hidden gems and cuisine/location breakdowns
+- 💡 Applied a minimum-vote filter so "high rating" reflects real reliability, not noise
 
 <br clear="left"/>
 
@@ -46,15 +59,6 @@ An end-to-end EDA project analyzing 90,000+ AI and Data job listings worldwide.
 
 <p align="center">
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=for-the-badge" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sailakshmi-v-003bba301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sai8305?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ Always learning, always analyzing.</i></p>
